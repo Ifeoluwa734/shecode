@@ -1,7 +1,7 @@
 # shecode
 A Test Repo For SheCode Africa UI
  
-Introduction
+Introduction:
 This repository was created to help particiants learn the act of contribiting to open source projecs after a learning session on the topic of maximizing the value of open source.
 
 Steps towards making your first open source contribution:
